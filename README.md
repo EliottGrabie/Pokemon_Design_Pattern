@@ -1,4 +1,4 @@
-# pokemon_DP
+# Pokemon_Design_Pattern
 
 Diagramme de classe :
 
