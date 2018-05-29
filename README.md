@@ -11,7 +11,9 @@ Quel sont les problèmes engendrés par l’implémentation du code de chaque at
 Pattern de strategy :
 
 Quel sont les problèmes engendrés par cette solution ?
-
+  -Dupplication de code dans le cas d'un ajout de type d'énergie, que ce soit en classe ou pour l'ajout du type dans l'énergie multicolore
+    =>solution : utiliser un pattern Decorator
+  
 
 Pattern Decorator :
 
